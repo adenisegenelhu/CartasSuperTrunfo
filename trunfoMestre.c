@@ -52,6 +52,7 @@ int main (){
         int pontosTuristicos2;
         float densidadepopulacional2;
         float PIBperCapita2;
+        float superPoder2;
 
         printf("Carta 2: \n");
 
